@@ -1,17 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44bd3294-f3fd-4ed3-8b87-4b236f590b73" name="Changes" comment="" />
+    <list default="true" id="44bd3294-f3fd-4ed3-8b87-4b236f590b73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Array_Count_EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_DeleteByPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_DeleteByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_DeleteDuplicateElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_EvenOrOdd_ElementList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Input_And_Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_MultiplyAllElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Searching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Sorting_Decrease.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Sorting_Increase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_SunAllElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Two_Dimensional_Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountNumberUsingForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EvenOrOddUsing_Ternary_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EvenOrOddUsing_if_else_statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EvenOrOdd_Using_if_else_if.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factorials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaSwaping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Swap_Using_Temp_Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Swap_Without_Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vowel_Using_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vowel_Using_if_else.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Find_A_Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2GmoVjH3JROwW4NGVbKOFkQCYNr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,9 +59,58 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Array_MultiplyAllElements">
+    <configuration name="Array_DeleteByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_DeleteByValue" />
+      <module name="JavaProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array_DeleteDuplicateElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_DeleteDuplicateElements" />
+      <module name="JavaProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array_EvenOrOdd_ElementList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_EvenOrOdd_ElementList" />
+      <module name="JavaProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array_MultiplyAllElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_MultiplyAllElements" />
+      <module name="JavaProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array_Sorting_Increase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Sorting_Increase" />
+      <module name="JavaProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Array_MultiplyAllElements" />
+        <item itemvalue="Application.Array_EvenOrOdd_ElementList" />
+        <item itemvalue="Application.Array_DeleteDuplicateElements" />
+        <item itemvalue="Application.Array_DeleteByValue" />
+        <item itemvalue="Application.Array_Sorting_Increase" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
